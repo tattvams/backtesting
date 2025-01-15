@@ -13,7 +13,7 @@ mydb = mysql.connector.connect(
     host = "xx",
     user ="xx",
     password ="xx",
-    #database = "nifty_schema"
+    
 )
 count_error=0
 
